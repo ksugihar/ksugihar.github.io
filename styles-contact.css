@@ -83,7 +83,7 @@ html, body {
 }
 
 h1 {
-	font-family: cormorant-garamond, serif;
+	font-family: didot;
 	font-weight: 400;	
 	font-style: normal;
 	font-size: 2em;
@@ -108,7 +108,7 @@ p {
 }
     
     nav{
-		font-family: garamond;
+		font-family: avenir;
 		font-size: 1.2em;
 		width: 400px;
 		margin: 0 auto;
